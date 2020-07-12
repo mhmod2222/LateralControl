@@ -1,3 +1,6 @@
+https://youtu.be/3bLvWvgwbtI
+
+
 this is implementation of Linear model predicitive controller, as example of a dynamical controller to lateral vehicle motion
 
 We use here LQR (Linear Quadratic Regulator) here, because it is the closed form solution of MPC when it is linear.
