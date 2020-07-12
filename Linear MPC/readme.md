@@ -3,6 +3,8 @@ https://youtu.be/3bLvWvgwbtI
 
 this is implementation of Linear model predicitive controller, as example of a dynamical controller to lateral vehicle motion
 
+-	Dynamic controller: numerically integrates the dynamic model of the vehicle at discrete time steps. The goal is to minimize difference between actual and desired value at every time step.
+
 We use here LQR (Linear Quadratic Regulator) here, because it is the closed form solution of MPC when it is linear.
 
 The controller is applied to discrete control problem
